@@ -140,7 +140,7 @@ public class authenticate extends javax.swing.JFrame {
         // TODO add your handling code here:
         username= text.getText();
         password=pass.getText();
-        if(username.equals("samicheen") && password.equals("khariwal")){
+        if(username.equals("svm") && password.equals("143")){
             welcome w = new welcome();
             w.main();
             jLabel5.setText("");
